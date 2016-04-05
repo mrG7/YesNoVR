@@ -1,5 +1,8 @@
 # YesNoVR
 UE4 plugin to recognize Yes / No head movements in VR.
 
-## TODO
-Currently, this plugin only seems to work within the Unreal Editor. The plugin is not included when packaging an UE4 project. Suggestions to fix that problem are greatly appreciated!
+## Description
+The plugin contains an ActorComponent (Yes No) that can be added to a Character (Blueprint). The component will trigger an event as soon as a Yes or No movement of the head has been detected. This event is exposed via `On Gesture Delegate`.
+
+A tutorial of how to use this plugin will folow.
+
