@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "YesNoVR",
+	"Description": "This plugin contains an actor component that detects yes and no movements of the head, or actually HMD.",
+	"Category": "Virtual Reality",
+	"CreatedBy": "Bitwiseben",
+	"CreatedByURL": "https://github.com/bitwise-ben",
+	"DocsURL": "https://github.com/bitwise-ben/YesNoVR",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "YesNoVR",
+			"Type": "Runtime"
+		}
+	]
+}
